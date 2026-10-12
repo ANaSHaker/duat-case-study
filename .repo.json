@@ -1,0 +1,6 @@
+{
+  "name": "duat-case-study",
+  "description": "Case study: DUAT, my own ancient-Egyptian board-game product and its Next.js platform. Sales site, playable Senet and Tjau demo with a card-playing rollout AI, online matches, cash-on-delivery orders and an owner dashboard. Two games, one box",
+  "topics": ["case-study", "nextjs", "typescript", "game-ai", "board-game", "monte-carlo", "prisma", "i18n", "rtl", "ancient-egypt"],
+  "homepage": "https://duat-egypt.vercel.app"
+}
